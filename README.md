@@ -54,6 +54,6 @@ O jogo possui:
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https:https://github.com/Savarezi/Jogo-do-Numero-secreto
 
    ⭐ Se gostou do projeto, não esquece de deixar uma estrela no repositório!
